@@ -1,0 +1,70 @@
+body {
+ background: #F4ECD0;
+}
+
+
+#fundo {
+ height: 100%;
+ width: 100%;
+ border: 15px solid #453A19;
+}
+
+h1 {
+ text-align: center;
+ font-size: 60px;
+ border: 15px solid #453A19;
+}
+h2 {
+ text-align: center;
+ font-size: 55px
+}
+h3 {
+ text-align: center;
+ font-size: 50px
+}
+h4 {
+ text-align: center;
+ font-size: 50px
+}
+
+b {
+ color: #453A19;
+}
+
+.MUDANÇAS2 {
+ font-size: 45px;
+ text-align: center;
+ color: #8E762E;
+ font-weight: bold;
+}
+
+.ALERTA {
+	background: white;
+	font-size: 40px;
+	color: #836D2C;
+    border: 15px solid #453A19;
+}
+
+.AJUDAR {
+	background: white;
+	font-size: 40px;
+	color: #836D2C;
+    border: 15px solid #453A19;
+}
+
+.ORIGEM {
+	font-size: 40px;
+}
+
+.PRINCIPAL {
+	font-size: 40px;
+}
+
+.RODAPÉ {
+	font-size: 25px;
+	text-align: right;
+}
+
+
+
+
